@@ -1,0 +1,13 @@
+<mvc:View controllerName="poc.zchartjsdemo.controller.View1" xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<core:HTML content='&lt;canvas id=&quot;myChart&quot;&gt;&lt;/canvas&gt;'></core:HTML>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

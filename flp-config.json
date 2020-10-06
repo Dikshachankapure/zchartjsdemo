@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "poc.zchartjsdemo.zchartjsdemo",
+        "description": "CharJS Demo",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#zchartjsdemo-Display",
+        "navigationComponentName": "poc.zchartjsdemo",
+        "intentSemanticObject": "zchartjsdemo",
+        "intentAction": "Display",
+        "html5ApplicationName": "zchartjsdemo",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "46fe9fa0-afdb-4221-8712-fec85d1e8400-1555043785238"
+        ],
+        "contentPackages": [
+            "37e7742e-74da-42e1-878f-a6514a2ab3c4-1555043729371"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "ChartJS",
+        "subtitle": "Demo",
+        "searchKeywords": "ChartJS,Demo",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
